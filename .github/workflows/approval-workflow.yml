@@ -1,1 +1,2 @@
-name: TJ's 110 Lab
+name: Team awesome's approval workflow
+on: pull_request_review
